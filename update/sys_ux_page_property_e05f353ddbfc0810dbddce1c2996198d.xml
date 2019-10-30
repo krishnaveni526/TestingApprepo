@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Include/exclude workspace notification</description>
+        <name>ws_active_notification</name>
+        <page display_value="TestingAppRepo-Git">e85f353ddbfc0810dbddce1c2996198a</page>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2019-10-30 13:31:11</sys_created_on>
+        <sys_id>e05f353ddbfc0810dbddce1c2996198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_active_notification</sys_name>
+        <sys_package display_value="TestingAppRepo-Git" source="x_snc_testingappre">414e75f9dbfc0810dbddce1c29961972</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestingAppRepo-Git">414e75f9dbfc0810dbddce1c29961972</sys_scope>
+        <sys_update_name>sys_ux_page_property_e05f353ddbfc0810dbddce1c2996198d</sys_update_name>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2019-10-30 13:31:11</sys_updated_on>
+        <type>boolean</type>
+        <unique_name>x_snc_testingappre.ws_active_notification</unique_name>
+        <value>true</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=e05f353ddbfc0810dbddce1c2996198d"/>
+</record_update>

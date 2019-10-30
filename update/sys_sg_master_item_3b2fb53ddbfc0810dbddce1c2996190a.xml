@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_snc_testingappre_exttask</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="ExtTask Form Screen">772fb53ddbfc0810dbddce1c29961907</embedded_screen>
+        <item_view display_value="ExtTask List Screen Item View">7b2fb53ddbfc0810dbddce1c29961905</item_view>
+        <name>ExtTask master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>krishnaveni.y@snc</sys_created_by>
+        <sys_created_on>2019-10-30 13:30:35</sys_created_on>
+        <sys_id>3b2fb53ddbfc0810dbddce1c2996190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ExtTask master_item</sys_name>
+        <sys_package display_value="TestingAppRepo-Git" source="x_snc_testingappre">414e75f9dbfc0810dbddce1c29961972</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestingAppRepo-Git">414e75f9dbfc0810dbddce1c29961972</sys_scope>
+        <sys_update_name>sys_sg_master_item_3b2fb53ddbfc0810dbddce1c2996190a</sys_update_name>
+        <sys_updated_by>krishnaveni.y@snc</sys_updated_by>
+        <sys_updated_on>2019-10-30 13:30:35</sys_updated_on>
+    </sys_sg_master_item>
+</record_update>
