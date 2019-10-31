@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Table1" max_length="40" name="x_snc_testingappre_table1" type="collection"/>
+    <element label="Table1" max_length="40" name="x_snc_testingappre_table1" type="collection">
+        <element label="Column1" max_length="40" name="column1" type="string"/>
+        <element label="COlumn2" max_length="40" name="column2" type="boolean"/>
+    </element>
 </database>
